@@ -1,4 +1,4 @@
-# Hi there, I'm Hoang 👋 
+# Hi there, I'm Tien Nhat 👋 
 **Software Engineer | Web & Mobile Development Enthusiast**
 
 I am a passionate developer focusing on building scalable backend architectures, cloud-native solutions, and seamless mobile experiences. Currently exploring Go for high-performance services and Docker for containerization.
