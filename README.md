@@ -36,14 +36,6 @@ I am a passionate developer focusing on building scalable backend architectures,
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangGiuTienNhat&show_icons=true&theme=radical" alt="Hoang's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangGiuTienNhat&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/your-profile)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiennhatdev)
+[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/empty)
